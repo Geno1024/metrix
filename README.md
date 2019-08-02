@@ -1,5 +1,9 @@
 # Metrix
 
+![仓库访问量](http://hits.dwyl.com/Geno1024/metrix.svg)
+
+[![使用 Markdown 制作](https://img.shields.io/badge/made%20with-Markdown-brightgreen.svg)](https://github.com/Geno1024/metrix/search?l=Markdown) ![Built with love](https://img.shields.io/badge/built%20with-love-pink.svg) [![贡献者](https://img.shields.io/github/contributors/Geno1024/metrix.svg)](https://github.com/Geno1024/metrix/graphs/contributors)
+
 A matrix listing the relationship between WeChat advertising accounts in universities in China.
 
 一个试图列出面向高校的微信营销号的“表格”。
