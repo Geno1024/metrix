@@ -6,7 +6,7 @@
 
 A matrix listing the relationship between WeChat advertising accounts in universities in China.
 
-一个试图列出面向高校的[微信营销号](https/github.com/Geno1024/metrix/blob/master/definitions.md)的“表格”。
+一个试图列出面向高校的[微信营销号](https://github.com/Geno1024/metrix/blob/master/definitions.md)的“表格”。
 
 ## [LICENSE](https://github.com/Geno1024/metrix/blob/master/LICENSE.txt)
 
