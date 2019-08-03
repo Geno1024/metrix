@@ -1,3 +1,15 @@
+# Metrix
+
+![仓库访问量](http://hits.dwyl.com/Geno1024/metrix.svg)
+
+本文件试图列出面向高校的[微信营销号](https://github.com/Geno1024/metrix/blob/master/definitions.md)。
+
+部分解释请浏览[仓库说明](https://github.com/Geno1024/metrix/blob/master/readme.md)。
+
+暂未制作以高校排序的列表。请使用搜索功能。
+
+---
+
 1. 广州市学晟惠信息科技有限公司
 	1. 股东：
 		1. 于晓伟
