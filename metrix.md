@@ -4,7 +4,7 @@
 
 本文件试图列出面向高校的[微信营销号](https://github.com/Geno1024/metrix/blob/master/definitions.md)。
 
-请时刻记得，本文件只是冰山一角。
+请时刻记得，本文件只是冰山一角，并且一直在更新。
 
 部分解释请浏览[仓库说明](https://github.com/Geno1024/metrix/blob/master/readme.md)。
 
